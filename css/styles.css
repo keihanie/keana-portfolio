@@ -11044,3 +11044,11 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.navbar {
+  background-color: #1e1e2f !important; /* Or any color you want */
+}
+main {
+  background-color: #1e1e2f !important; /* Light gray or any color you want */
+}
+
